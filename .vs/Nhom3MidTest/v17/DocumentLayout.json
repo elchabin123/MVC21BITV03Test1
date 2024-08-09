@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\nghbv\\OneDrive\\M\u00E1y t\u00EDnh\\MVC21BITV03Test1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|c:\\users\\nghbv\\onedrive\\m\u00E1y t\u00EDnh\\mvc21bitv03test1\\nhom3midtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|solutionrelative:nhom3midtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|c:\\users\\nghbv\\onedrive\\m\u00E1y t\u00EDnh\\mvc21bitv03test1\\nhom3midtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|solutionrelative:nhom3midtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|solutionrelative:nhom3midtest\\data\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|c:\\users\\nghbv\\onedrive\\m\u00E1y t\u00EDnh\\mvc21bitv03test1\\nhom3midtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|solutionrelative:nhom3midtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|c:\\users\\nghbv\\onedrive\\m\u00E1y t\u00EDnh\\mvc21bitv03test1\\nhom3midtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|solutionrelative:nhom3midtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\nghbv\\OneDrive\\M\u00E1y t\u00EDnh\\MVC21BITV03Test1\\Nhom3MidTest\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Nhom3MidTest\\Views\\Home\\Index.cshtml",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\nghbv\\OneDrive\\M\u00E1y t\u00EDnh\\MVC21BITV03Test1\\Nhom3MidTest\\Views\\Customers\\Index.cshtml",
               "RelativeDocumentMoniker": "Nhom3MidTest\\Views\\Customers\\Index.cshtml",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "C:\\Users\\nghbv\\OneDrive\\M\u00E1y t\u00EDnh\\MVC21BITV03Test1\\Nhom3MidTest\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "Nhom3MidTest\\Controllers\\CustomersController.cs",
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\nghbv\\OneDrive\\M\u00E1y t\u00EDnh\\MVC21BITV03Test1\\Nhom3MidTest\\Views\\Parts\\Create.cshtml",
               "RelativeDocumentMoniker": "Nhom3MidTest\\Views\\Parts\\Create.cshtml",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Part.cs",
               "DocumentMoniker": "C:\\Users\\nghbv\\OneDrive\\M\u00E1y t\u00EDnh\\MVC21BITV03Test1\\Nhom3MidTest\\Data\\Part.cs",
               "RelativeDocumentMoniker": "Nhom3MidTest\\Data\\Part.cs",
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PartsController.cs",
               "DocumentMoniker": "C:\\Users\\nghbv\\OneDrive\\M\u00E1y t\u00EDnh\\MVC21BITV03Test1\\Nhom3MidTest\\Controllers\\PartsController.cs",
               "RelativeDocumentMoniker": "Nhom3MidTest\\Controllers\\PartsController.cs",
@@ -131,15 +131,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nghbv\\OneDrive\\M\u00E1y t\u00EDnh\\MVC21BITV03Test1\\Nhom3MidTest\\Program.cs",
               "RelativeDocumentMoniker": "Nhom3MidTest\\Program.cs",
               "ToolTip": "C:\\Users\\nghbv\\OneDrive\\M\u00E1y t\u00EDnh\\MVC21BITV03Test1\\Nhom3MidTest\\Program.cs",
               "RelativeToolTip": "Nhom3MidTest\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAArAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T06:37:53.697Z"
+              "WhenOpened": "2024-08-09T06:37:53.697Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
