@@ -71,5 +71,10 @@ public partial class CarDealerContext : DbContext
         OnModelCreatingPartial(modelBuilder);
     }
 
+    internal bool PartExists(int supplierId, string name, double? price)
+    {
+        throw new NotImplementedException();
+    }
+
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
 }

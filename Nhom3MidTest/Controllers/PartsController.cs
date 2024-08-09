@@ -169,7 +169,8 @@ namespace Nhom3MidTest.Controllers
 
         private bool PartExists(int id)
         {
-            return _context.Parts.Any(e => e.Id == id);
+            string name = null;
+            return _context.Parts.Any(e => e.Id == id && e.Name == name);
         }
     }
 }
