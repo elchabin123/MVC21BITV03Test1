@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nghbv\\OneDrive\\M\u00E1y t\u00EDnh\\Nhom3MidTest\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\MVC21BITV03Test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|c:\\users\\asus\\desktop\\mvc21bitv03test1\\nhom3midtest\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|solutionrelative:nhom3midtest\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|c:\\users\\asus\\desktop\\mvc21bitv03test1\\nhom3midtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|solutionrelative:nhom3midtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|c:\\users\\asus\\desktop\\mvc21bitv03test1\\nhom3midtest\\data\\cardealercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|solutionrelative:nhom3midtest\\data\\cardealercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|c:\\users\\asus\\desktop\\mvc21bitv03test1\\nhom3midtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15A5F4AB-0372-4868-87D5-E176AD9F8404}|Nhom3MidTest\\Nhom3MidTest.csproj|solutionrelative:nhom3midtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +35,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MVC21BITV03Test1\\Nhom3MidTest\\Controllers\\PartsController.cs",
+              "RelativeDocumentMoniker": "Nhom3MidTest\\Controllers\\PartsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MVC21BITV03Test1\\Nhom3MidTest\\Controllers\\PartsController.cs",
+              "RelativeToolTip": "Nhom3MidTest\\Controllers\\PartsController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:47:09.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MVC21BITV03Test1\\Nhom3MidTest\\Program.cs",
+              "RelativeDocumentMoniker": "Nhom3MidTest\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MVC21BITV03Test1\\Nhom3MidTest\\Program.cs",
+              "RelativeToolTip": "Nhom3MidTest\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:37:53.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarDealerContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MVC21BITV03Test1\\Nhom3MidTest\\Data\\CarDealerContext.cs",
+              "RelativeDocumentMoniker": "Nhom3MidTest\\Data\\CarDealerContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MVC21BITV03Test1\\Nhom3MidTest\\Data\\CarDealerContext.cs",
+              "RelativeToolTip": "Nhom3MidTest\\Data\\CarDealerContext.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:37:49.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MVC21BITV03Test1\\Nhom3MidTest\\appsettings.json",
+              "RelativeDocumentMoniker": "Nhom3MidTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MVC21BITV03Test1\\Nhom3MidTest\\appsettings.json",
+              "RelativeToolTip": "Nhom3MidTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T06:35:59.971Z",
+              "EditorCaption": ""
             }
           ]
         }
