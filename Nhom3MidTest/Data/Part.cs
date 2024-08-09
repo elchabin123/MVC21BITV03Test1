@@ -22,13 +22,18 @@ public partial class Part
     [Display(Name = "Giá")]
     [Required]
     public double? Price { get; set; }
+
+    [Display(Name = "Số Lượng")]
     [Required]
     public int Quantity { get; set; }
+
+    [Display(Name = "Nhà Cung cấp")]
     [Required]
     public int SupplierId { get; set; }
     [Required]
     public virtual Supplier Supplier { get; set; } = null!;
 
+    [Display(Name = "xe ô tô")]
     public virtual ICollection<Car> Cars { get; set; } = new List<Car>();
    
     
