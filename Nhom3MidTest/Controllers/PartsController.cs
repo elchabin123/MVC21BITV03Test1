@@ -64,9 +64,20 @@ namespace Nhom3MidTest.Controllers
                 _context.Add(part);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
-            
+           
+
             ViewData["SupplierId"] = new SelectList(_context.Suppliers, "Id", "Id", part.SupplierId);
             return View(part);
+        }
+        public IActionResult ValidateUniqueProduct(string namePriceCombination, int supplierId)
+        {
+            var parts = _context.Parts.Where(p => p.SupplierId == supplierId && p.Name == namePriceCombination);
+
+            if (parts.Any(p => p.Id != (this.RouteData.Values["id"] as int? ?? 0))) // Check if another part exists with the same name-price combo (excluding current edit)
+            {
+                return Json($"Nhà cung cấp này đã có sản phẩm '{namePriceCombination.Split(',')[0]}' với cùng giá.");
+            }
+            return Json(true);
         }
 
         // GET: Parts/Edit/5
