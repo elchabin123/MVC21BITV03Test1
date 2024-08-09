@@ -1,7 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using Nhom3MidTest.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<CarDealerContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("MyDB")));
 
 var app = builder.Build();
 
