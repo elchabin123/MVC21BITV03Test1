@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Nhom3MidTest.Data.History>
+@{
+    ViewData["Title"] = "";
+}
+
+<center> <h1> Danh Sách Khách Hàng Mua Xe </h1> </center>
+    <style>
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+        .table th, .table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        .table th {
+            background-color: #f2f2f2;
+            color: black;
+    </style>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã KH</th>
+            <th>Tên Khách hàng</th>
+            <th>Ngày sinh</th>
+            <th>Nhãn hiệu</th>
+            <th>Model</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.CustomerId</td>
+                <td>@item.BirthDay</td>
+                <td>@item.Make</td>
+                <td>@item.Model</td>
+            </tr>
+        }
+    </tbody>
+</table>

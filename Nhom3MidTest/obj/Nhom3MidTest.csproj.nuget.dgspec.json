@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nghbv\\OneDrive\\Máy tính\\MVC21BITV03Test1\\Nhom3MidTest\\Nhom3MidTest.csproj": {}
+    "D:\\BaiThiGiuaKy\\MVC21BITV03Test1\\Nhom3MidTest\\Nhom3MidTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nghbv\\OneDrive\\Máy tính\\MVC21BITV03Test1\\Nhom3MidTest\\Nhom3MidTest.csproj": {
+    "D:\\BaiThiGiuaKy\\MVC21BITV03Test1\\Nhom3MidTest\\Nhom3MidTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nghbv\\OneDrive\\Máy tính\\MVC21BITV03Test1\\Nhom3MidTest\\Nhom3MidTest.csproj",
+        "projectUniqueName": "D:\\BaiThiGiuaKy\\MVC21BITV03Test1\\Nhom3MidTest\\Nhom3MidTest.csproj",
         "projectName": "Nhom3MidTest",
-        "projectPath": "C:\\Users\\nghbv\\OneDrive\\Máy tính\\MVC21BITV03Test1\\Nhom3MidTest\\Nhom3MidTest.csproj",
-        "packagesPath": "C:\\Users\\nghbv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nghbv\\OneDrive\\Máy tính\\MVC21BITV03Test1\\Nhom3MidTest\\obj\\",
+        "projectPath": "D:\\BaiThiGiuaKy\\MVC21BITV03Test1\\Nhom3MidTest\\Nhom3MidTest.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\BaiThiGiuaKy\\MVC21BITV03Test1\\Nhom3MidTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\nghbv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
